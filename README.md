@@ -33,3 +33,13 @@ Now open open **index.html** in your browser and open the
 
 You should expect to see:
 ![hello browserify](http://i.imgur.com/eMuMxru.png)
+
+
+
+
+## Further Reading
+
+- Use Watchify to automatically re-bundle your app when changes are made:
+https://www.npmjs.com/package/watchify
+- Use Browserify to bundle a React.js App for use on both Server *and* Browser:
+https://github.com/mhart/react-server-example

@@ -30,3 +30,6 @@ browserify main.js -o bundle.js
 
 Now open open **index.html** in your browser and open the
 **developer console**.
+
+You should expect to see:
+![hello browserify](http://i.imgur.com/eMuMxru.png)
